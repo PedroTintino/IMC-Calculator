@@ -1,2 +1,2 @@
 # IMC-Calculator
-A IMC calculator using JavaScript, HTML and CSS.
+An IMC calculator using JavaScript, HTML and CSS.
